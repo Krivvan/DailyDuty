@@ -17,7 +17,10 @@ public enum ModuleName {
     
     [Description("DomanEnclave")]
     DomanEnclave,
-    
+
+    [Description("Diadem")]
+    Diadem,
+
     [Description("DutyRoulette")]
     DutyRoulette,
     
